@@ -36,5 +36,21 @@
     "babel-loader": "^8.0.2",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.0"
+  },"peerDependencies":{
+    "react-dom":"^16.8.0 || 16.0.0 || ^17.0.1",
+    "react":"^16.8.0 || ^17.0.2",
+    "workbox-webpack-plugin":"4.3.1",
+    "webpack-manifest-plugin":"2.1.1",
+    "webpack":"4.41.0",
+    "url-loader":"2.1.0",
+    "typescript":"^4.1.2",
+    "superagent-proxy:"*",
+    "superagent":"3",
+    "snyk-python-plugin":"*",
+    "snyk-php-plugin":"*",
+    "react-leaflet":"^2.8.0",
+    "graphql":"^15.0.0",
+    "fork-ts-checker-webpack-plugin":"3.1.1",
+    "evp_bytestokey":"*"
   }
 }
